@@ -5,3 +5,4 @@
 - launch instnace
 - login to ec2 machine
 - ssh into ec2
+- and start working
